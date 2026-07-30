@@ -211,11 +211,19 @@ def monthly_counts(days: list[dict[str, Any]]) -> list[tuple[str, int]]:
 
 def svg_text(x: int, y: int, text: str, *, size: int = 16, fill: str, weight: int = 400,
              anchor: str = "start", family: str = "ui-monospace, SFMono-Regular, Menlo, Consolas, monospace",
-             letter_spacing: float = 0) -> str:
+             letter_spacing: float = 0, preserve_spaces: bool = False) -> str:
+    escaped = html.escape(str(text))
+    preserve = ""
+    if preserve_spaces:
+        # SVG normally collapses and removes leading spaces in text nodes.
+        # Preserve them explicitly so ASCII art keeps its original shape.
+        escaped = escaped.replace(" ", "&#160;")
+        preserve = ' xml:space="preserve" style="white-space:pre"'
+
     return (
         f'<text x="{x}" y="{y}" fill="{fill}" font-size="{size}" font-weight="{weight}" '
-        f'text-anchor="{anchor}" font-family="{family}" letter-spacing="{letter_spacing}">'
-        f'{html.escape(str(text))}</text>'
+        f'text-anchor="{anchor}" font-family="{family}" letter-spacing="{letter_spacing}"{preserve}>'
+        f'{escaped}</text>'
     )
 
 
@@ -244,7 +252,7 @@ def render(config: dict[str, Any], metrics: dict[str, Any], portrait: str, theme
     portrait_lines = portrait.rstrip("\n").splitlines()
     portrait_y = 154
     for idx, line in enumerate(portrait_lines[:24]):
-        parts.append(svg_text(68, portrait_y + idx * 18, line, size=13, fill=c["muted"]))
+        parts.append(svg_text(68, portrait_y + idx * 18, line.expandtabs(4), size=13, fill=c["muted"], preserve_spaces=True))
 
     # Identity
     parts += [
