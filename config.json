@@ -1,0 +1,20 @@
+{
+  "display_name": "eii...",
+  "github_username": "AUTO",
+  "handle": "yourname@github",
+  "headline": "AI · QUANT · LOW-LATENCY",
+  "location": "United States",
+  "status": "Building the boring part of my life",
+  "website": "https://vancrown.github.io/landing/",
+  "email": "eiivc@outlook.com",
+  "primary_theme": "charcoal",
+  "show_private_count_note": true,
+  "metrics": [
+    "contributions_365d",
+    "public_repos",
+    "stars_earned",
+    "pull_requests_365d",
+    "followers",
+    "current_streak"
+  ]
+}
