@@ -49,7 +49,7 @@
 <text x="500" y="468" fill="#9B978E" font-size="10" font-weight="400" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1.1">PULL REQUESTS / 365D</text>
 <text x="680" y="444" fill="#E7E3DA" font-size="28" font-weight="650" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">10</text>
 <text x="680" y="468" fill="#9B978E" font-size="10" font-weight="400" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1.1">FOLLOWERS</text>
-<text x="860" y="444" fill="#E7E3DA" font-size="28" font-weight="650" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">1D</text>
+<text x="860" y="444" fill="#E7E3DA" font-size="28" font-weight="650" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">0D</text>
 <text x="860" y="468" fill="#9B978E" font-size="10" font-weight="400" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1.1">CURRENT STREAK</text>
 </g>
 <line x1="60" y1="544.0" x2="710" y2="544.0" stroke="#2D2E2A"/>
@@ -83,5 +83,5 @@
 <text x="1028" y="674" fill="#B4AA96" font-size="12" font-weight="600" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">0</text>
 <rect x="760" y="687" width="245" height="4" rx="2" fill="#2D2E2A"/>
 <rect x="760" y="687" width="0.0" height="4" rx="2" fill="#B4AA96"/>
-<text x="1038" y="720" fill="#9B978E" font-size="9" font-weight="400" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1">UPDATED 2026-08-23 17:38 UTC</text>
+<text x="1038" y="720" fill="#9B978E" font-size="9" font-weight="400" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1">UPDATED 2026-08-24 05:56 UTC</text>
 </svg>
