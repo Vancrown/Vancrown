@@ -47,7 +47,7 @@
 <text x="860" y="378" fill="#9B978E" font-size="10" font-weight="400" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1.1">STARS EARNED</text>
 <text x="500" y="444" fill="#E7E3DA" font-size="28" font-weight="650" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">5</text>
 <text x="500" y="468" fill="#9B978E" font-size="10" font-weight="400" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1.1">PULL REQUESTS / 365D</text>
-<text x="680" y="444" fill="#E7E3DA" font-size="28" font-weight="650" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">11</text>
+<text x="680" y="444" fill="#E7E3DA" font-size="28" font-weight="650" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">10</text>
 <text x="680" y="468" fill="#9B978E" font-size="10" font-weight="400" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1.1">FOLLOWERS</text>
 <text x="860" y="444" fill="#E7E3DA" font-size="28" font-weight="650" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">0D</text>
 <text x="860" y="468" fill="#9B978E" font-size="10" font-weight="400" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1.1">CURRENT STREAK</text>
@@ -56,20 +56,20 @@
 <line x1="60" y1="588.0" x2="710" y2="588.0" stroke="#2D2E2A"/>
 <line x1="60" y1="632.0" x2="710" y2="632.0" stroke="#2D2E2A"/>
 <line x1="60" y1="676.0" x2="710" y2="676.0" stroke="#2D2E2A"/>
-<polyline points="60.0,676.0 119.1,676.0 178.2,676.0 237.3,676.0 296.4,676.0 355.5,673.1 414.5,676.0 473.6,660.2 532.7,554.0 591.8,637.2 650.9,644.4 710.0,666.0" fill="none" stroke="#C7BCA7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="60.0,676.0 119.1,676.0 178.2,676.0 237.3,676.0 296.4,673.1 355.5,676.0 414.5,660.2 473.6,554.0 532.7,637.2 591.8,644.4 650.9,666.0 710.0,676.0" fill="none" stroke="#C7BCA7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="60" y="516" fill="#9B978E" font-size="11" font-weight="400" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1.4">CONTRIBUTION ACTIVITY · TRAILING 12 MONTHS</text>
-<text x="60" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">SEP</text>
-<text x="119" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">OCT</text>
-<text x="178" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">NOV</text>
-<text x="237" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">DEC</text>
-<text x="296" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">JAN</text>
-<text x="355" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">FEB</text>
-<text x="415" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">MAR</text>
-<text x="474" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">APR</text>
-<text x="533" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">MAY</text>
-<text x="592" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">JUN</text>
-<text x="651" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">JUL</text>
-<text x="710" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">AUG</text>
+<text x="60" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">OCT</text>
+<text x="119" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">NOV</text>
+<text x="178" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">DEC</text>
+<text x="237" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">JAN</text>
+<text x="296" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">FEB</text>
+<text x="355" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">MAR</text>
+<text x="415" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">APR</text>
+<text x="474" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">MAY</text>
+<text x="533" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">JUN</text>
+<text x="592" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">JUL</text>
+<text x="651" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">AUG</text>
+<text x="710" y="700" fill="#9B978E" font-size="9" font-weight="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">SEP</text>
 <text x="760" y="516" fill="#9B978E" font-size="11" font-weight="400" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1.4">TOP REPOSITORIES · STARS</text>
 <text x="760" y="558" fill="#E7E3DA" font-size="13" font-weight="550" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">Vancrown</text>
 <text x="1028" y="558" fill="#B4AA96" font-size="12" font-weight="600" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">0</text>
@@ -83,5 +83,5 @@
 <text x="1028" y="674" fill="#B4AA96" font-size="12" font-weight="600" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="0">0</text>
 <rect x="760" y="687" width="245" height="4" rx="2" fill="#2D2E2A"/>
 <rect x="760" y="687" width="0.0" height="4" rx="2" fill="#B4AA96"/>
-<text x="1038" y="720" fill="#9B978E" font-size="9" font-weight="400" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1">UPDATED 2026-08-31 21:55 UTC</text>
+<text x="1038" y="720" fill="#9B978E" font-size="9" font-weight="400" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1">UPDATED 2026-09-01 10:11 UTC</text>
 </svg>
